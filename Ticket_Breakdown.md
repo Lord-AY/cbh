@@ -16,7 +16,7 @@ Based on the information given, break this ticket down into 2-5 individual ticke
 You will be graded on the level of detail in each ticket, the clarity of the execution plan within and between tickets, and the intelligibility of your language. You don't need to be a native English speaker, but please proof-read your work.
 
 ## Your Breakdown Here
-The User story is for facilities to created their own custom ids for Agents they work with
+This User story is to enable facilities to create their own custom ids for Agents they work with, 
 At the end of this user story the facilities should be able to generate reports that contains custom Ids for their Agents
 
 # Tickets
